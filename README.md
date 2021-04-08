@@ -1,1 +1,2 @@
-# Itransition_Task_4
+# Fake Data Generator
+## How to run: python task4.py [n] [locale]
